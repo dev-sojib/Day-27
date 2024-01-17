@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 160px;
+    width: 160px;
+    border: 3px solid rgb(97, 97, 97);
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    cursor: pointer;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin: 30px 15px 30px 15px;
+    cursor: pointer;
+}
+.red{
+    background: rgb(255, 150, 150);
+}
+.yellow{
+    background: rgb(250, 219, 114);
+}
+.green{
+    background: rgb(140, 236, 170);
+}
+.blue{
+    background: rgb(144, 170, 255);
+}
+.flash{
+    background-color: white;
+}
